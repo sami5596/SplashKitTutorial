@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sami\\Desktop\\Markdown Tutorial\\Our Project\\Our Project.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sami\\Desktop\\Markdown Tutorial\\Our Project\\Our Project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sami\\Desktop\\Markdown Tutorial\\Our Project\\Our Project.csproj",
+        "projectName": "Our Project",
+        "projectPath": "C:\\Users\\Sami\\Desktop\\Markdown Tutorial\\Our Project\\Our Project.csproj",
+        "packagesPath": "C:\\Users\\Sami\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sami\\Desktop\\Markdown Tutorial\\Our Project\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
